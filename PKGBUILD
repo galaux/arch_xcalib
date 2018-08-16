@@ -3,7 +3,7 @@
 # adpoted from mOLOk since pkgver=0.7
 
 pkgname=xcalib
-pkgver=0.9
+pkgver=0.10
 pkgrel=1
 pkgdesc="A tiny monitor calibration loader for X.org"
 arch=('i686' 'x86_64')
